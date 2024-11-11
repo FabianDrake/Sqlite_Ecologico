@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Practica09</string>
+    <string name="navigation_drawer_open">Practica09</string>
+    <string name="navigation_drawer_close">Practica09</string>
+    <string name="nav_header_title">Practica09</string>
+    <string name="nav_header_subtitle">Practica09</string>
+    <string name="nav_header_desc">Practica09</string>
+    <string name="action_cerrar">Cerrar Sesion</string>
+    <string name="hello_blank_fragment">Practica09</string>
+
+
+    <string name="menu_Parques">Parques</string>
+    <string name="menu_ListadoParques">Listado de Parques</string>
+    <string name="menu_Guardabosques">Guarda bosques</string>
+    <string name="menu_ListadoGuardabosques"> Listado de Guardabosques</string>
+
+
+    <string name="parques">Parques</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="guardar">Guardar Datos</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="salir">Salir</string>
+
+    <string name="numero">Numero del Parque</string>
+    <string name="tamanio">Tamaño del Parque</string>
+    <string name="juegos">Areas juego</string>
+    <string name="espacios">Espacios reposo</string>
+
+    <string name="horario">Horario</string>
+    <string-array name="listaHorario">
+        <item>9:00am</item>
+        <item>12:30am</item>
+        <item>2:30am</item>
+    </string-array>
+
+    <string name="lineales">Parques lineales</string>
+    <string name="virtuales">Parques virtuales</string>
+
+    <string name="registroParques">Base de datos de Parques</string>
+
+    <string name="nombreGuarda">Nombre</string>
+    <string name="sueldo">Sueldo</string>
+
+    <string name="alimentarAnimales">Alimentar Animales</string>
+    <string name="bañarAnimales">Bañar Animales</string>
+
+    <string name="acciones">Acciones</string>
+    <string-array name="listaAcciones">
+        <item>Educación y concienciación</item>
+        <item>Seguridad y rescate</item>
+        <item>Proteccion AreasVerdes</item>
+    </string-array>
+
+    <string name="generoMas">Genero Masculino</string>
+    <string name="generoFem">Genero Femenino</string>
+
+
+    <string name="registroGuarda">Base de datos de GuardaBosques</string>
+
+</resources>
